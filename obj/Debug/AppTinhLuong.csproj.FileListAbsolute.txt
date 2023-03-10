@@ -1,0 +1,6 @@
+E:\apptinhluong\AppTinhLuong\bin\Debug\AppTinhLuong.exe
+E:\apptinhluong\AppTinhLuong\bin\Debug\AppTinhLuong.pdb
+E:\apptinhluong\AppTinhLuong\obj\Debug\AppTinhLuong.csproj.AssemblyReference.cache
+E:\apptinhluong\AppTinhLuong\obj\Debug\AppTinhLuong.csproj.CoreCompileInputs.cache
+E:\apptinhluong\AppTinhLuong\obj\Debug\AppTinhLuong.exe
+E:\apptinhluong\AppTinhLuong\obj\Debug\AppTinhLuong.pdb
